@@ -5,7 +5,7 @@ This project is a simple parking lot management system built using Flask and SQL
 It allows vehicles to enter and exit a parking lot, and calculates the parking charges based on the duration of stay.
 
 ## Folder Structure
-ex1/
+
 - deploy.sh
 - requirements.txt
 - app.py
