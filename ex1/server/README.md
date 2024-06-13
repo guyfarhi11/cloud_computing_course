@@ -6,7 +6,6 @@ It allows vehicles to enter and exit a parking lot, and calculates the parking c
 
 ## Folder Structure
 
-- deploy.sh
 - requirements.txt
 - app.py
 
