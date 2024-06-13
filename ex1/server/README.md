@@ -12,10 +12,6 @@ It allows vehicles to enter and exit a parking lot, and calculates the parking c
 
 ## Files
 
-### deploy.sh
-This shell script sets up the environment by updating the system packages, installing necessary packages, 
-cloning the repository, creating a virtual environment, and installing required Python packages.
-
 ### requirements.txt
 This file lists the required Python packages for the project
 
